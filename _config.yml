@@ -1,19 +1,19 @@
 # Website settings
 title: "TALOS-ROBOTICS"
-description: "Talos-robotics site is for something"
+description: "Talos-robotics UTH"
 
 baseurl: "/"
 url: "http://ChristosMatzoros.github.io"
-# url: "http://127.0.0.1:4000"
+
 
 # leader
 leader:
   name: 'Dimitrios Paraschas'
   first_name: 'Dimitrios'
   last_name: 'Paraschas'
-  email: 'jack19890614@gmail.com'
-  facebook_username: 'jiakunnj'
-  github_username: 'Jack614'
+  email: ''
+  facebook_username: ''
+  github_username: ''
 
 
 # author
@@ -31,8 +31,8 @@ jingyu:
   first_name: 'Christos'
   last_name: 'Matzoros'
   description: 'Web design.'
-  link: 'http://angular.jack003.com'
-  email: '805963294@qq.com'
+  link: ''
+  email: ''
 
 # landing page
 landing:
@@ -63,11 +63,11 @@ project:
 index:
   home: 'Home'
   python: 'Blog'
-  linux: 'Linux'
+  linux: ''
   html: 'HTML'
-  database: 'Database'
-  mac: 'Mac'
-  life: 'Life'
+  database: ''
+  mac: ''
+  life: ''
 
 # blog img path
 img_path: '/static/img/blog'
