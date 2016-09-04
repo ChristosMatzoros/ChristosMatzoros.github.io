@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TALOS-ROBOTICS</title>
+    <description>Talos-robotics site is for something</description>
+    <link>http://github-ChristosMatzoros.github.io//</link>
+    <atom:link href="http://github-ChristosMatzoros.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 23 Aug 2016 19:06:40 +0300</pubDate>
+    <lastBuildDate>Tue, 23 Aug 2016 19:06:40 +0300</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Who We Are</title>
+        <description>&lt;!--  Κάποιος τίτλος--&gt;
+&lt;h1 style=&quot;text-align:center;&quot;&gt;The Team&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Dimitrios Paraschas&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Antony Alexos&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Akis Gianoukos&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Christos Matzoros&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://avatars0.githubusercontent.com/u/1269230?v=3&amp;amp;s=460&quot; alt=&quot;HTML Tutorial&quot; height=&quot;250&quot; width=&quot;250&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://scontent.fath3-2.fna.fbcdn.net/v/t1.0-9/13325442_1103308936357432_5199023213483135256_n.jpg?oh=ea620d502d8853b445acb02bdbe11fb3&amp;amp;oe=5818931F&quot; alt=&quot;HTML Tutorial&quot; height=&quot;250&quot; width=&quot;250&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anonymous_emblem.svg/2000px-Anonymous_emblem.svg.png&quot; alt=&quot;HTML Tutorial&quot; height=&quot;250&quot; width=&quot;250&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAfaAAAAJGI5YmMyMjc2LWI2MTAtNDVjOS04YzIzLWRjMzE5ZTY4NDI1Zg.jpg&quot; alt=&quot;HTML Tutorial&quot; height=&quot;250&quot; width=&quot;250&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;CEO&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;απλα Antony Alexos antony antony antony antony antony antony antony antony antony antony antony antony antony antony antony antony antony antony antony antony antony antony antony antony antony antony&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;ieeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeee seadasdfasdddssssssssssssssssssssss ssssssssssssssssssssssssssssss sssssssssssssssssssssssssssss&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;me&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Dimitrios Paraschas&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt; &lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Antony Alexos&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt; &lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Akis Giannoukos&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt; &lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Christos Matzoros&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://avatars0.githubusercontent.com/u/1269230?v=3&amp;amp;s=460&quot; alt=&quot;HTML Tutorial&quot; height=&quot;250&quot; width=&quot;250&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://scontent.fath3-2.fna.fbcdn.net/v/t1.0-9/13325442_1103308936357432_5199023213483135256_n.jpg?oh=ea620d502d8853b445acb02bdbe11fb3&amp;amp;oe=5818931F&quot; alt=&quot;HTML Tutorial&quot; height=&quot;250&quot; width=&quot;250&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anonymous_emblem.svg/2000px-Anonymous_emblem.svg.png&quot; alt=&quot;HTML Tutorial&quot; height=&quot;250&quot; width=&quot;250&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;a href=&quot;https://www.linkedin.com/in/christos-matzoros-6bb173116&quot;&gt;&lt;img src=&quot;https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAfaAAAAJGI5YmMyMjc2LWI2MTAtNDVjOS04YzIzLWRjMzE5ZTY4NDI1Zg.jpg&quot; alt=&quot;Alt text&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;CEO&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;απλα Antony Alexos antony antony antony antony antony antony antony antony antony antony antony antony antony antony antony antony antony antony antony antony antony antony antony antony antony antony&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;ieeeeeeeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeeeeeeee eeeeeeeeeeeeeee seadasdfasdddssssssssssssssssssssss ssssssssssssssssssssssssssssss sssssssssssssssssssssssssssss&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;me&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 24 Jun 2016 00:00:00 +0300</pubDate>
+        <link>http://github-ChristosMatzoros.github.io//html/2016/06/24/javascript-json-array.html</link>
+        <guid isPermaLink="true">http://github-ChristosMatzoros.github.io//html/2016/06/24/javascript-json-array.html</guid>
+        
+        
+        <category>HTML</category>
+        
+      </item>
+    
+      <item>
+        <title>Iε</title>
+        <description>&lt;p&gt;something.......................................@@@@@@@@@@@@@@@@@@@
+eeeeeeeeeeeeeeeeeeeeeeeieιεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεεε
+εεεεεεεεεεεεεειεεεεεεεεεεεεεεεεε&lt;/p&gt;
+
+&lt;!--  Κάποιος τίτλος--&gt;
+&lt;h1&gt;Κάποιος Τίτλος&lt;/h1&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;arrayObj&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;  &lt;span class=&quot;c1&quot;&gt;//创建一个数组&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;arrayObj&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]);&lt;/span&gt;  &lt;span class=&quot;c1&quot;&gt;//创建一个数组并指定长度，注意不是上限，是长度&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;arrayObj&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;element0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;element1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;...[,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;elementN&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]]]]);&lt;/span&gt;  &lt;span class=&quot;c1&quot;&gt;//创建一个数组并赋值&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;!--  Κάποιο βίντεο απο youtube: πας -&gt;κοινή χρήση-&gt;ενσωμάτωση και κανεις copy paste μαζι με το div --&gt;
+
+&lt;div style=&quot;height:400px;width:600;padding-left:20%;padding-right:20%;&quot;&gt;
+    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/CMdHDHEuOUE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;!--  Κάποια εικόνα--&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-ieeee-11.png&quot; alt=&quot;HTML Tutorial&quot; height=&quot;150&quot; width=&quot;140&quot; /&gt;&lt;/p&gt;
+
+&lt;!--  Κάποιo κείμενο με χρώμα--&gt;
+
+&lt;p style=&quot;color:red;&quot;&gt;kati ieee thrylos&lt;/p&gt;
+</description>
+        <pubDate>Thu, 23 Jun 2016 00:00:00 +0300</pubDate>
+        <link>http://github-ChristosMatzoros.github.io//html/2016/06/23/javascript-json-array.html</link>
+        <guid isPermaLink="true">http://github-ChristosMatzoros.github.io//html/2016/06/23/javascript-json-array.html</guid>
+        
+        
+        <category>HTML</category>
+        
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+---
+layout: blog
+title: Blog
+permalink: /blog/
+---
+
+<a href="#" class="scrollToTop"></a>
+<div class="row">
+    <div class="col-lg-12 text-center">
+        <div class="navy-line"></div>
+        <h1>Info</h1>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-8 col-lg-offset-2">
+        <div class="wrapper wrapper-content animated fadeInRight">
+
+            <!-- latest 10 blog -->
+			{% for post in site.posts limit:1000 %}
+            <div class="vote-item">
+                <div class="row">
+                    <div class="col-md-10">
+                        <div class="vote-actions">
+                        </div>
+                        <a href="{{ post.url }}" class="vote-title">
+                            {{ post.title }}
+                        </a>
+                        <div class="vote-info">
+                            <i class="fa fa-clock-o"></i> <a>{{ post.date | date: "%-d %b %Y" }}</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+
+        </div>
+    </div>
+
+</div>
