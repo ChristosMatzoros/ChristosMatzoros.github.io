@@ -28,13 +28,6 @@ CEO | | απλα Antony Alexos antony antony antony antony antony antony antony 
 :-------------------------:|:---:|:-------------------------:|:---:|:-------------------------:|:---:|:-------------------------:
 -->
 
-<!--
-https://avatars0.githubusercontent.com/u/1269230?v=3&s=460
 
-https://scontent.fath3-2.fna.fbcdn.net/v/t1.0-9/13325442_1103308936357432_5199023213483135256_n.jpg?oh=ea620d502d8853b445acb02bdbe11fb3&oe=5818931F
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anonymous_emblem.svg/2000px-Anonymous_emblem.svg.png
-
--->
 <br><br>
 <br><br>
