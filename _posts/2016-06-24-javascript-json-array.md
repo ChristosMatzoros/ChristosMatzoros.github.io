@@ -26,34 +26,34 @@ CEO  |  απλα Antony Alexos antony antony antony antony antony antony antony 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-    <li><a href="https://github.com/{{ site.author.github_username }}" target="blank"><i class="fa fa-twitter"></i></a>
+    <li><a href="" target="blank"><i class="fa fa-twitter"></i></a>
     </li>
-    <li><a href="mailto:{{ site.author.email }}"><i class="fa fa-linkedin"></i></a>
+    <li><a href="https://gr.linkedin.com/in/paraschas"><i class="fa fa-linkedin"></i></a>
     </li>
 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-    <li><a href="https://github.com/{{ site.author.github_username }}" target="blank"><i class="fa fa-twitter"></i></a>
+    <li><a href="" target="blank"><i class="fa fa-twitter"></i></a>
     </li>
-    <li><a href="mailto:{{ site.author.email }}"><i class="fa fa-linkedin"></i></a>
+    <li><a href="https://gr.linkedin.com/in/antony-alexos-861446122"><i class="fa fa-linkedin"></i></a>
     </li>
 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-    <li><a href="https://github.com/{{ site.author.github_username }}" target="blank"><i class="fa fa-twitter"></i></a>
+    <li><a href="" target="blank"><i class="fa fa-twitter"></i></a>
     </li>
-    <li><a href="mailto:{{ site.author.email }}"><i class="fa fa-linkedin"></i></a>
+    <li><a href="https://gr.linkedin.com/in/akisgiannoukos"><i class="fa fa-linkedin"></i></a>
     </li>
 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-    <li><a href="https://github.com/{{ site.author.github_username }}" target="blank"><i class="fa fa-twitter"></i></a>
+    <li><a href="" target="blank"><i class="fa fa-twitter"></i></a>
     </li>
-    <li><a href="mailto:{{ site.author.email }}"><i class="fa fa-linkedin"></i></a>
+    <li><a href="https://gr.linkedin.com/in/christos-matzoros"><i class="fa fa-linkedin"></i></a>
     </li>
 
 </ul>
