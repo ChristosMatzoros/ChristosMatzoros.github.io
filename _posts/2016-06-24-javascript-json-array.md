@@ -22,7 +22,7 @@ CEO  |  απλα Antony Alexos antony antony antony antony antony antony antony 
 
 
 <ul class="list-inline social-icon">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <li><a href="https://github.com/{{ site.author.github_username }}" target="blank"><i class="fa fa-github"></i></a>
     </li>
     <li><a href="mailto:{{ site.author.email }}"><i class="fa fa-envelope-o"></i></a>
