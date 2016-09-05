@@ -77,5 +77,5 @@ CEO | | απλα Antony Alexos antony antony antony antony antony antony antony 
 <br><br>
 
 <div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg">
-    <p><strong>&copy; 2016 {{ site.title }}</strong></p>
+    <p><strong>&copy; {{ site.year }} {{ site.title }}</strong></p>
 </div>

@@ -1,10 +1,9 @@
 # Website settings
 title: "TALOS-ROBOTICS"
 description: "Talos-robotics UTH"
-
 baseurl: "/"
 url: "http://ChristosMatzoros.github.io"
-
+year: "2016"
 
 # leader
 leader:
