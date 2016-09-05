@@ -65,10 +65,10 @@ CEO  |  απλα Antony Alexos antony antony antony antony antony antony antony 
 
 <table style = "text-align:center;">
   <tr>
-    <th style = "text-align:center;">Dimitrios Paraschas</th>
-    <th style = "text-align:center;">Antony Alexos</th>
-    <th style = "text-align:center;">Akis Gianoukos</th>
-    <th style = "text-align:center;">Christos Matzoros</th>
+    <th style = "text-align:center;font-size:16px;">Dimitrios Paraschas</th>
+    <th style = "text-align:center;font-size:16px;">Antony Alexos</th>
+    <th style = "text-align:center;font-size:16px;">Akis Gianoukos</th>
+    <th style = "text-align:center;font-size:16px;">Christos Matzoros</th>
   </tr>
   <tr>
     <td style = "text-align:center;"><img src="https://avatars0.githubusercontent.com/u/1269230?v=3&s=460" alt="first" height="250" width="250" /></td>
