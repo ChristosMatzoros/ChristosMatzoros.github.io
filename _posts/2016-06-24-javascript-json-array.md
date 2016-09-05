@@ -10,7 +10,7 @@ icon:
 
 ---
 
-<br></br>
+<br><br>
 <!--  Title of the post -->
 <h1 style="text-align:center;">The Team</h1>
 
